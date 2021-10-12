@@ -8,7 +8,7 @@ public class TestCaseAbc {
         Scanner scan = new Scanner(System.in);
         Random rand = new Random();
 
-        System.out.print("Masukan jumlah test case: ");
+        System.out.print("Masukan jumlah test case yang akan dijalankan (1 - 10): ");
         int n_test_case = scan.nextInt();
         int a, b, c, hasil;
 
