@@ -24,7 +24,7 @@
 
 ## Praktikum
 **Soal  praktikum**
-1. menganalisa batasan maksimum dari suatu tipe data(long)
+1. menganalisa batasan maksimum dari suatu tipe data(long) kemudian berikan solusi untuk mengatasi persoalan tersebut.
 2. membuat cerita anak ayam dengan bahasa java.
 3. Diberikan 3 buah bilangan bulat a, b, c tentukan hasil operasi matematika a + b -c dan cetak hasilnya !. dengan ketentuan input jumlah testcase adalah T(T <= 10) dan setiap testcase akan terdiri dari integer a, b, c adalah (-100 <= a, b, c <= 100).
 
