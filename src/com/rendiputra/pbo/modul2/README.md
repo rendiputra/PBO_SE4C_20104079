@@ -22,7 +22,7 @@
   
 ---
 
-- ## Praktikum
+## Praktikum
 **Soal  praktikum**
 1. menganalisa batasan maksimum dari suatu tipe data(long)
 2. membuat cerita anak ayam dengan bahasa java.
@@ -77,6 +77,7 @@
     ```
    
 3. [**Soal 3: Link source code file TestCaseAbc.java**](https://github.com/rendiputra/PBO_SE4C_20104079/blob/modul2/src/com/rendiputra/pbo/modul2/latihan/TestCaseAbc.java)
+   
    **Berikut Capture text output dari class TestCaseAbc ketika dijalankan:**
      ```text
      Masukan jumlah test case yang akan dijalankan (1 - 10): 7
