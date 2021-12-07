@@ -1,11 +1,11 @@
-# Modul 7: Polimorfisme
+# Modul 8: Polimorfisme
 ## Dasar Teori
 1. **Polimorfisme**
     Polymorphism (polimorfisme) adalah kemampuan untuk mempunyai beberapa bentuk class yang berbeda. Polimorfisme ini terjadi pada saat suatu obyek bertipe parent class, akan tetapi pemanggilan constructornya melalui subclass. Misalnya deklarasi pernyataan berikut ini:
     
     Dimana `Manager()` adalah kontruktor pada class Manager yang merupakan ubclass dari class `Employee`.
     ```java
-    Employee employee=new Manager();
+    Employee employee = new Manager();
     //<nama class> <variable objek bebas> = new <kontruktor>();
     ```
 
