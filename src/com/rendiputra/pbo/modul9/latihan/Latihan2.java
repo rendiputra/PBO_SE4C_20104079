@@ -10,7 +10,9 @@ public class Latihan2 {
             System.out.print ("Masukan Angka : ");
             int num = sc.nextInt();
             if (num>10) throw new Exception();
+            {
                 System.out.println("Angka kurang dari atau sama dengan 10");
+            }
         } catch (Exception s) {
             System.out.println("Angka lebih dari 10");
         }
